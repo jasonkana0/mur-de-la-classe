@@ -41,7 +41,8 @@ const cities = [
   { name: "Buea", region: "Sud-Ouest" },
   { name: "Kumba", region: "Sud-Ouest" },
   { name: "Mamfe", region: "Sud-Ouest" },
-  { name: "Tiko", region: "Sud-Ouest" }
+  { name: "Tiko", region: "Sud-Ouest" }, 
+  { name: "jason", region: "labo cybersec" }
 ];
 
 const grid = document.getElementById("cityGrid");
